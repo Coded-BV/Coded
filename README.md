@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/coded-logo.png" width="96" alt="Coded logo" />
+  <img src="./coded-logo.png" width="96" alt="Coded logo" />
 </p>
 
 <h1 align="center">Coded™</h1>
